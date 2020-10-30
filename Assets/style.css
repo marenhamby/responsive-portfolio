@@ -5,3 +5,7 @@ body {
 nav {
     margin-bottom: 50px;
 }
+
+.navbar-brand {
+    font-weight: bold;
+}
