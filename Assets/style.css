@@ -6,6 +6,10 @@ nav {
     margin-bottom: 50px;
 }
 
+.class {
+    margin:"16px"
+}
+
 .navbar-brand {
     font-weight: bold;
 }
