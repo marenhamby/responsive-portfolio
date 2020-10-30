@@ -2,12 +2,20 @@ body {
     background-color: cornflowerblue;
 }
 
-nav {
-    margin-bottom: 50px;
+.container {
+    width: 60%;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-top: 60px;
+    margin-right: auto; 
+    margin-bottom: 60px;
+    margin-left: 40px;
 }
 
-.row {
-    margin:"16px"
+
+nav {
+    margin-bottom: 50px;
 }
 
 .navbar-brand {
